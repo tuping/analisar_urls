@@ -14,7 +14,7 @@ require "open3"
 # o arquivo deve ter uma coluna "cliente" e uma coluna "site"
 
 gemfile do
-  ruby "2.3.8"
+  ruby "2.6.3"
   source 'https://rubygems.org'
   gem "slop"
   gem "pry"

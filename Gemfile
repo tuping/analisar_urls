@@ -1,2 +1,2 @@
-ruby "2.3.8"
+ruby "2.6.3"
 source 'https://rubygems.org'
